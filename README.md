@@ -13,6 +13,6 @@ I learned thanks to others willingness of sharing knowledge/work and this is my 
 
 ## Currently Working On
 * Learning Go
-* Learning about computational/parametric design using Blender + Python 
+* Exploring computational/parametric design using Blender + Python 
 * Uploading construction projects to GitHub
 * Contributing to AEC projects
